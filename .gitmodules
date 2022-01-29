@@ -1,0 +1,3 @@
+[submodule "addons/camera"]
+	path = addons/camera
+	url = https://gitlab.com/chandu078/vendor_oneplus_addons_camera.git
